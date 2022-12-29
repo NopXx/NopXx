@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @NopXx
-- 📖 Learning to be a Full Stack Web Developer 🌐💪🏼
+- 📖 Learning to be a Full Stack 💪🏼
