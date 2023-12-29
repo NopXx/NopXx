@@ -5,7 +5,6 @@ Student
 -------
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [khamkokaewn1@hotmail.com](mailto:khamkokaewn1@hotmail.com)
 
 ### Skills
 
